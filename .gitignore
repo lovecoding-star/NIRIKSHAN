@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+live_data.db
+*.log
+*.bak
+DEMO_SCRIPT.txt
+SYSTEM_KNOWLEDGE.txt
